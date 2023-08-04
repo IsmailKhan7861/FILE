@@ -1,0 +1,61 @@
+***HTML , CSS BEST PRACTISE  (SEO) 
+
+
+HTML  **Interview bit 
+   ****w3 school
+   ***table - tr - theader - tbody - td IMPORTANT 
+   ***FORMS  
+   -HTML5 new features 
+   -elements,attributes
+   -lAYOUT
+   -SEMENTIC Tag 
+   -HTML VS HTML5 
+
+CSS  *** Interview bit
+     ****w3 school
+     ***CSS HIRARCY
+     ***box sizing 
+     ***display flex , justify content , align item 
+     ***POSITION:FIXEED,ABSOLUTE,RELATIVE
+     ***box model 
+     ***Display : none , visibilibity:hidden
+     ***Name css properties 
+     ***Types of css selectors
+     ***CSS GRID
+     ***media querries (max width, width with)
+     **Speceifty:
+     -display: none , visibilty:hidden
+     -max width,max hieght
+     -Z index
+     -block, block inline , inline 
+     -class vs id 
+     **sudo elements 
+     ** SUDO CLASS
+     -units
+     - can id be used in multiple multiple elements - YES BUT IT IS NOT GOOD PRACTISE IF  
+     - CSS CSS3 
+     -if we have pagaraph with id and class and we apply 
+     -FRAMEWORKS OF CSS - BOOTSTARAP,TAILWIND 
+     -Which affects content if we give margin or padding.
+     -Sprites 
+     -short hand 
+     -rgb color mixtures
+     -externel red , internal blue , inline pink  
+     - color: pink !important 
+     -rem 
+     -overflow 
+   
+
+*** SCSS - https://youtu.be/tEQOdFgUXI4
+--SASS , PASS
+
+*** Animation -  CANVAS 
+              -webkIT 
+
+
+html {
+    font-size:10px;
+}
+<div> font 20px
+   p { font-size:1em}
+h {f 2rem}
