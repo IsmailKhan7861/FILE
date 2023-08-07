@@ -1,8 +1,13 @@
-***HTML , CSS BEST PRACTISE  (SEO) 
+0) ASKED IN MAIL 
+1)HTML 
+2)CSS , SCSS   
+3)PROJECT 
+
+1)***HTML , CSS BEST PRACTISE  (SEO) 
 
 
-HTML  **Interview bit 
-   ****w3 school
+2)HTML  **w3 school 
+   **w3 interview bit theory
    ***table - tr - theader - tbody - td IMPORTANT 
    ***FORMS  
    -HTML5 new features 
@@ -11,8 +16,18 @@ HTML  **Interview bit
    -SEMENTIC Tag 
    -HTML VS HTML5 
 
-CSS  *** Interview bit
-     ****w3 school
+3)CSS  *** w3 school 
+               complete css tutorial topic 
+               ***css advanced - rounded corners , border,background,color,gradient,transition,animation,object fit,pagination,BOX SIZING,MEDIA QUERRIES 
+               CSS RESPONSIVE - MEDIA QUEERIES,GIRD
+               CSS refrence - animation,unit,selector,default values
+     ** INTEVRIEW BIT THEOTY 
+
+     OTHER :::
+     ****DISPLAY PROPERTY: https://youtu.be/5qVuORLniwM
+     ****POSITION PROPERTIES:https://youtu.be/MwGHiVl-gqk 
+     ****DISPLAY PROPERTY CSS (INLINE,INLINEBLOCK,BLOCK 
+     ****MEDIA QUERRIES  https://youtu.be/WTz4A8IdeEQ
      ***CSS HIRARCY
      ***box sizing 
      ***display flex , justify content , align item 
@@ -22,7 +37,7 @@ CSS  *** Interview bit
      ***Name css properties 
      ***Types of css selectors
      ***CSS GRID
-     ***media querries (max width, width with)
+     ***media querries (max width, width with)  IMPORTANT 
      **Speceifty:
      -display: none , visibilty:hidden
      -max width,max hieght
@@ -31,6 +46,9 @@ CSS  *** Interview bit
      -class vs id 
      **sudo elements 
      ** SUDO CLASS
+     ** WHAT ARE SEMENTIC TAGS 
+     ** HTML LAYOUT STRUCTURE 
+     *** Display property we use display flex to do most work of placing item if this doesn work we use position properteies
      -units
      - can id be used in multiple multiple elements - YES BUT IT IS NOT GOOD PRACTISE IF  
      - CSS CSS3 
@@ -42,15 +60,18 @@ CSS  *** Interview bit
      -rgb color mixtures
      -externel red , internal blue , inline pink  
      - color: pink !important 
-     -rem 
+     -rem , em units  (example for rem: html {font-size:10px}  h1{font-size:1rem here 1rem means respect to its root body size ie here 10px.  2rem means 20px 
+                       em means with respect to its parent {example: parent font size 3px  so if we want to apply to child font size 1rem which is 3px 
      -overflow 
    
-
-*** SCSS - https://youtu.be/tEQOdFgUXI4
+4)*** SCSS - https://youtu.be/tEQOdFgUXI4
 --SASS , PASS
 
-*** Animation -  CANVAS 
+5)*** Animation -  CANVAS 
               -webkIT 
+
+6)https://www.simplilearn.com/tutorials/css-tutorial/css-interview-questions 
+7)PROJECT TO SHOW IMPORTANT 
 
 
 html {
